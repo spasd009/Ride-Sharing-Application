@@ -1,0 +1,10 @@
+ride-sharing/target/
+**/.env
+**/secrets/
+**/mysql-setup.local.sql
+*.log
+*.p12
+*.jks
+ride-sharing/bin/
+ride-sharing/*.jar
+ride-sharing/src/main/resources/static/media/*.mp4

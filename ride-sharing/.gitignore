@@ -1,0 +1,11 @@
+target/
+.env
+.env.*
+!.env.example
+secrets/
+*.log
+*.p12
+*.jks
+mysql-setup.local.sql
+*.jar
+src/main/resources/static/media/*.mp4
